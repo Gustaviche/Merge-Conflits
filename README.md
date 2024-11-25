@@ -1,3 +1,4 @@
+REMOTE
 # Merge-Conflits
 
 Le goût de la simplicité

@@ -1,3 +1,4 @@
+LOCAL
 # Merge-Conflits
 
 Le goût de la simplicité
